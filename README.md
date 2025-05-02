@@ -40,7 +40,10 @@ Yes! But there’s a catch—you gotta play fair. **GPL-3.0 License rules apply*
 Need help or want to collaborate? Hit me up on my [Linktree](https://linktr.ee/iiWasHere) or join the [Discord server](https://discord.gg/iidk).  
 
 > **"You wouldn’t steal a method."**  
-> [🎥 (Or would you?)](https://www.youtube.com/watch?v=zMBqPdMzZ9E)  
+> [🎥 (Or would you?)](https://www.youtube.com/watch?v=zMBqPdMzZ9E)
+>
+
+## This fork is made just to optimize the menu's code to avoid memory leaks. However, I still recommend the usage of the original one since one error and the whole code breaks making this one unusable. This won't be updated as frequently as the original repository is.
 
 ---
 
